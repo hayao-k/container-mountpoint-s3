@@ -1,6 +1,8 @@
 # container-mountpoint-s3
 This is a simple container image to verify the operation of [Mountpoint for Amazon S3](https://github.com/awslabs/mountpoint-s3) in a container environment.
 
+Container image is also available in [ECR Public gallery](https://gallery.ecr.aws/x8j1s2l2/container-mountpoint-s3).
+
 ## Getting started
 Image Build
 
